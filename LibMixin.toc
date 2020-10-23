@@ -1,0 +1,5 @@
+## Title: LibMixin |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: 1.0.0
+
+LibMixin.lua
